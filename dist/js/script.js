@@ -40,3 +40,4 @@ window.addEventListener("scroll", () => {
       
       element.classList.add('active');
     }
+ 

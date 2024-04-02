@@ -36,7 +36,7 @@ header {
 }
 
 .navbar.scrolling-active {
-  background-color: #0050b3;
+  background-color: #8B735B;
   padding: 30px 0 30px 0;
 }
 
@@ -67,11 +67,11 @@ header {
 }
 
 .navbar .box-navbar .menu .active a {
-  background-color: #0050b3;
+  background-color: #b59678;
 }
 
 .navbar .box-navbar .menu li a:hover {
-  background-color: #0050b3;
+  background-color: #8B735B;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -119,7 +119,7 @@ header {
 .hero .box-hero .box:nth-child(1) button {
   width: 180px;
   height: 50px;
-  background-color: #0050b3;
+  background-color: #8B735B;
   font-weight: bold;
   color: white;
   border: none;
@@ -132,7 +132,7 @@ header {
 }
 
 .hero .box-hero .box:nth-child(1) button:hover {
-  background-color: #053e83;
+  background-color: #8B735B;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -168,25 +168,25 @@ header {
 .services .box-services .box i {
   font-size: 40px;
   margin-bottom: 10px;
-  color: #0050b3;
+  color: #ffffff;
 }
 
 .services .box-services .box p {
   font-weight: 100;
 }
 
-.Wisata {
+.coffe {
   padding: 50px 0 50px 0;
 }
 
-.Wisata .box-Wisata {
+.coffe .box-coffe {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 20px;
   row-gap: 50px;
 }
 
-.Wisata .box-Wisata .box {
+.coffe .box-coffe .box {
   text-align: center;
   color: white;
   transition: all 0.3s ease;
@@ -196,7 +196,7 @@ header {
   -o-transition: all 0.3s ease;
 }
 
-.Wisata .box-Wisata .box:hover {
+.coffe .box-coffe .box:hover {
   transform: translateY(-20px);
   -webkit-transform: translateY(-20px);
   -moz-transform: translateY(-20px);
@@ -204,7 +204,7 @@ header {
   -o-transform: translateY(-20px);
 }
 
-.Wisata .box-Wisata .box img {
+.coffe .box-coffe .box img {
   width: 100%;
   height: 70%;
   margin-bottom: 10px;
@@ -215,12 +215,12 @@ header {
   -o-border-radius: 5px;
 }
 
-.Wisata .box-Wisata .box p {
+.coffe .box-coffe .box p {
   font-weight: 100;
   margin-bottom: 10px;
 }
 
-.Wisata .box-Wisata .box button:hover {
+.coffe .box-coffe .box button:hover {
   background-color: #053e83;
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -283,7 +283,7 @@ header {
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
   cursor: pointer;
-  background-color: #0050b3;
+  background-color: #8B735B;
   color: white;
   padding-inline: 10px;
 }
@@ -296,7 +296,7 @@ header {
 
 .footer {
   padding: 50px 0 50px 0;
-  background-color: #0050b3;
+  background-color: #8B735B;
 }
 
 .footer .box-footer {
@@ -372,7 +372,7 @@ header {
     -moz-transition: all 0.3s ease;
     -ms-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
-    background-color: #0050b3;
+    background-color: #8B735B;
   }
 
   .navbar .box-navbar .menu.menu-active {
@@ -436,7 +436,7 @@ header {
     justify-self: center;
   }
 
-  .Wisata .box-Wisata {
+  .coffe .box-coffe {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   }
 }
